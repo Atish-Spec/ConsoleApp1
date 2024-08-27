@@ -16,6 +16,8 @@ namespace ConsoleApp1
 
 
             string abc = "Abc";
+            int jwd = 0;
+        
 
                     
         }
